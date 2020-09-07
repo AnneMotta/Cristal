@@ -40,7 +40,7 @@ Entre na pasta do projeto:
 
 	Execute a aplicação:
 	ng serve - o
-<p>Agora, a aplicação irá rodar a partir da rota http://localhost:3000/</p>
+<p>Agora, a aplicação irá rodar a partir da rota http://localhost:4200/</p>
 
 #### Back-end
 No Eclipse IDE
