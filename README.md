@@ -1,8 +1,11 @@
 <p align= "center">
   <img src = "https://i.imgur.com/qoETd8i.png">
 </p>                                              
+<p align= "center">
+ <img src = "https://img.shields.io/badge/Status-Concluido-blueviolet">
+ <img src = "https://img.shields.io/badge/Autores-Squad%20Cristal-blueviolet">
+</p> 
 
->Status do Projeto: Concluido
 
 <h2 align="left">Descrição do Projeto</h2>
 <p align="justify">Projeto de conclusão do Bootcamp <a href = "https://brazil.generation.org">Generation Brasil</a> A Cristal foi inspirada no trabalho de conclusão de curso da modelista Beatriz dos Santos Chinello, a qual observou o déficit da indústria da moda no que diz respeito à acessibilidade. </p>
@@ -30,7 +33,7 @@ Clone o projeto:
 ```
 #### Front-end
 Entre na pasta do projeto:
-	cd web/cristal 
+	cd cristal-angular/cristal 
 
 	Instale as dependecias:
 	npm install
@@ -42,8 +45,8 @@ Entre na pasta do projeto:
 #### Back-end
 No Eclipse IDE
 ```
-	Import>Marven -> Selecionar "Existing Maven Projects"
-	Selecionando o projeto: Projects>Cristal>Server 
+	Import>Marven -> Selecionar "Existing Maven Projects"> Clicar "Next>"
+	Browse>Cristal -> Selecionar diretorio "cristal-spring"> Clicar "Finish" 
 	
 ```
 
